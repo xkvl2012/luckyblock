@@ -11,7 +11,7 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-_G.Key = SwepLucky
+_G.Key = "SwepLucky"
 _G.KeyInput = "string"
 
 function SwepHub()
