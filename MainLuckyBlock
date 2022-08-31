@@ -68,7 +68,7 @@ local Section = Tab:AddSection({
 })
 Tab:AddTextbox({
 	Name = "Join Discord For Key!",
-	Default = "https://discord.gg/7ess4EFuRB",
+	Default = "https://discord.com/invite/ppQTvDAq6C",
 	TextDisappear = true,
 	Callback = function(Value)	
 	end  
